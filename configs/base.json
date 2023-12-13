@@ -1,5 +1,5 @@
 {
-  "prepared_folder": "../data/prepared/sales/",
+  "prepared_folder": "data/prepared/sales/",
   "model_name": "LANET",
   "look_back": 3,
   "emb_dim": 128,
