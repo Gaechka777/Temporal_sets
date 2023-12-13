@@ -1,4 +1,4 @@
-﻿# Identifying the relationship between labels using an attention-based algorithm for the Next Basket Recommendation task
+﻿# Identifying the relationship between labels using an attention-based algorithm 
 
 
 # Requirements
